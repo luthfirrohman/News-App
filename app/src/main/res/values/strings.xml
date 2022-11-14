@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewsPedia</string>
+    <string name="home">Home</string>
+    <string name="bookmark">Bookmark</string>
+</resources>
